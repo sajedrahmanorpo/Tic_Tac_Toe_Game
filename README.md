@@ -4,17 +4,17 @@ A Command-Line Interface (CLI) implementation of the classic **Tic-Tac-Toe** gam
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-* **🤖 Smart AI Opponent:** Uses the Minimax decision-making algorithm to analyze all possible moves and ensure optimal gameplay.
-* **🧠 Dynamic Board Interface:** Displays cell numbers dynamically to make moves effortless.
-* **🔄 Replay System:** Play as many rounds as you want without restarting the executable.
-* **🛡️ Input Validation:** Prevents invalid user inputs (out-of-bound choices or overwriting occupied positions).
-* **🎯 Choice of First Move:** Choose whether you want to move first (`X`) or let the computer start (`O`).
+* ** Smart AI Opponent:** Uses the Minimax decision-making algorithm to analyze all possible moves and ensure optimal gameplay.
+* ** Dynamic Board Interface:** Displays cell numbers dynamically to make moves effortless.
+* ** Replay System:** Play as many rounds as you want without restarting the executable.
+* ** Input Validation:** Prevents invalid user inputs (out-of-bound choices or overwriting occupied positions).
+* ** Choice of First Move:** Choose whether you want to move first (`X`) or let the computer start (`O`).
 
 ---
 
-## 🛠️ Tech Stack & Concepts Used
+## Tech Stack & Concepts Used
 
 * **Language:** C++11 (or higher)
 * **Standard Libraries:** `<iostream>`, `<vector>`, `<limits>`, `<cstdlib>`
@@ -22,7 +22,7 @@ A Command-Line Interface (CLI) implementation of the classic **Tic-Tac-Toe** gam
 
 ---
 
-## 🚀 How to Run the Game
+## How to Run the Game
 
 ### 1. Prerequisites
 Make sure you have a C++ compiler installed (such as `g++` via MinGW on Windows, or GCC on Linux/macOS).
