@@ -16,9 +16,9 @@ A Command-Line Interface (CLI) implementation of the classic **Tic-Tac-Toe** gam
 
 ## Tech Stack & Concepts Used
 
-* Language:** C++11 (or higher)
-* Standard Libraries:** `<iostream>`, `<vector>`, `<limits>`, `<cstdlib>`
-* Algorithms:** Minimax Algorithm (Artificial Intelligence / Decision Theory)
+* Language: C++11 (or higher)
+* Standard Libraries: `<iostream>`, `<vector>`, `<limits>`, `<cstdlib>`
+* Algorithms: Minimax Algorithm (Artificial Intelligence / Decision Theory)
 
 ---
 
