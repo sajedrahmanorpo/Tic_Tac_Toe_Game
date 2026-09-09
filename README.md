@@ -1,4 +1,3 @@
-﻿# Tic_Tac_Toe_Game
 # 🎮 Unbeatable Tic-Tac-Toe Game (C++)
 
 A Command-Line Interface (CLI) implementation of the classic **Tic-Tac-Toe** game written in C++. The game features an AI opponent powered by the **Minimax Algorithm**, making it completely unbeatable!
